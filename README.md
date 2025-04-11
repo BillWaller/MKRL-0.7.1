@@ -41,5 +41,3 @@ Assume you want to create a record layout from a data structure. In this example
 :five:	The output file name, **SYSDATES.RL** is derived by replacing the **.DS** extension of the input file name with **.RL**. The compiled COBOL program, **RL** uses the **GNUCobol runtime library** to analyze the data structure described by **DS-ANALYZER**, producing the record layout, which it writes to **SYSDATES.RL**. 
 
 eMail [Bill Waller](billxwaller@gmail.com)
-
-Да здравствует Россия, свободная страна! - Олег Водосвятский
